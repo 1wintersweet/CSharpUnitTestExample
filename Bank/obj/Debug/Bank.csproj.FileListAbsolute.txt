@@ -1,0 +1,5 @@
+c:\users\gzhang.enterprise\documents\visual studio 2015\Projects\Bank\Bank\bin\Debug\Bank.pdb
+c:\users\gzhang.enterprise\documents\visual studio 2015\Projects\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+c:\users\gzhang.enterprise\documents\visual studio 2015\Projects\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\Bank\obj\Debug\Bank.exe
