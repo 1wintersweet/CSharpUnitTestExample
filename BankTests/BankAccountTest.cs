@@ -30,14 +30,15 @@ namespace BankTests
             double actual = account.Balance;
             Assert.AreEqual(expected, actual, 0.001, "Account not debited correctly");
         }
-
+        // more robost and informative test method
         [TestMethod]
         public void Debit_WhenAmountIsMoreThanBalance_shouldThrowArgumentOutOfRange()
         {
             // arrange
             double beginningBalance = 11.99;
-            double debitAmount = 15.55;
-            double expected = 7.44;
+            double debitAmount = 20.0;
+          //  double debitAmount = 10.0;
+            //  double expected = 7.44;
             BankAccount account = new BankAccount("Mr. Bryan Walton", beginningBalance);
 
             // act
@@ -49,12 +50,9 @@ namespace BankTests
             {
                 // assert
                 StringAssert.Contains(e.Message, BankAccount.DebitAmountExceedsBalanceMessage);
+                return;
             }
-     
-
-            // assert is handled by ExpectedException
-            double actual = account.Balance;
-            Assert.AreEqual(expected, actual, 0.001, "Account not debited correctly");
+            Assert.Fail("No exception was thrown");
         }
     }
 }
