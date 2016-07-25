@@ -1,0 +1,12 @@
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTestNUnit\obj\Debug\TrendingTestNUnit.csprojResolveAssemblyReference.cache
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTestNUnit\bin\Debug\TrendingTestNUnit.dll
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTestNUnit\bin\Debug\TrendingTestNUnit.pdb
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTestNUnit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTestNUnit\bin\Debug\nunit.framework.dll
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTestNUnit\bin\Debug\Trending.exe
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTestNUnit\bin\Debug\Trending.pdb
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTestNUnit\bin\Debug\nunit.framework.xml
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTestNUnit\obj\Debug\TrendingTestNUnit.dll
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTestNUnit\obj\Debug\TrendingTestNUnit.pdb
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTestNUnit\bin\Debug\nunit.core.dll
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTestNUnit\bin\Debug\NUnit.VisualStudio.TestAdapter.dll

@@ -1,0 +1,6 @@
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\Trending\bin\Debug\Trending.exe.config
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\Trending\bin\Debug\Trending.exe
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\Trending\bin\Debug\Trending.pdb
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\Trending\obj\Debug\TrendingRunner.csprojResolveAssemblyReference.cache
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\Trending\obj\Debug\Trending.exe
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\Trending\obj\Debug\Trending.pdb

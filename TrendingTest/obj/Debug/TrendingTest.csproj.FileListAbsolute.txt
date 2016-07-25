@@ -1,0 +1,10 @@
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTest\bin\Debug\TrendingTest.dll
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTest\bin\Debug\TrendingTest.pdb
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTest\bin\Debug\Trending.exe
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTest\bin\Debug\Trending.pdb
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTest\obj\Debug\TrendingTest.csprojResolveAssemblyReference.cache
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTest\obj\Debug\TrendingTest.dll
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTest\obj\Debug\TrendingTest.pdb
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTest\bin\Debug\nunit.framework.dll
+C:\Users\gzhang.Enterprise\Documents\Visual Studio 2015\Projects\Bank\TrendingTest\bin\Debug\nunit.framework.xml
